@@ -1,4 +1,10 @@
 import streamlit as st
+import numpy as np
+
+
+
+with st.chat_message("user")
+      st.write ("Hello")
 
 st.title("KalpaniBaraniwala_Echo Bot")
 
